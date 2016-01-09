@@ -3,12 +3,12 @@
   <style name="Text" foreground="#D3D7CF" background="#2e3436"/>
   <style name="Link" foreground="#88cee7" italic="true"/>
   <style name="Selection" foreground="#EEEEEC" background="#888A85"/>
-  <style name="LineNumber" foreground="#888A85"/>
+  <style name="LineNumber" foreground="#888a85" background="#000000"/>
   <style name="SearchResult" foreground="#000000" background="#78848c"/>
   <style name="SearchScope" foreground="#000000" background="#78848c"/>
   <style name="Parentheses" foreground="#000000" background="#D8D8D8"/>
   <style name="CurrentLine" background="#555753" bold="true"/>
-  <style name="CurrentLineNumber" foreground="#dcdcdc" bold="true" />
+  <style name="CurrentLineNumber" foreground="#888a85" background="#000000" bold="true"/>
   <style name="Occurrences" foreground="#000000" background="#b4b4b4"/>
   <style name="Occurrences.Unused" foreground="#b3b3b3"/>
   <style name="Occurrences.Rename" foreground="#000000" background="#ff6464"/>
